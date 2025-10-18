@@ -1,0 +1,12 @@
+Title, ID, Author, Publisher, Price, Quantity
+Mathematics,B001, R.D. Sharma, Dhanpat Rai Publications, 550, 30
+Science,B002, Lakhmir Singh, S. Chand Publishing, 480, 25
+Social Science,B003, Arjun Dev, NCERT, 180, 40
+English Literature,B004, NCERT, NCERT, 100, 35
+Hindi Vyakaran,B005, Dr. Vasudevanand, Saraswati House, 220, 20
+Geography,B006, Majid Husain, NCERT, 150, 28
+Physics,B007, Pradeep Publications, Pradeep Publications, 620, 15
+Chemistry,B008, O.P. Tandon, GRB Books, 750, 18
+History,B009, Romila Thapar, NCERT, 140, 22
+Biology,B010, Trueman's, Trueman Book Company, 780, 12
+Linux,B0012,xyz,mnp,250,7

@@ -1,0 +1,7 @@
+Name, Order Id, Book Id, Price, Quantity, Warehouse
+Aakash,1, B001, 550, 1,ABC Warehouse
+Aakash,19,B001,3850,7,ABC Warehouse
+Aakash,1,B004,600,6,CNBC Warehouse
+Aakash,4,B006,150,1,CNBC Warehouse
+Aakash,9,B0012,1500,6,ABC Warehouse
+Aakash,6,B009,140,1,CNBC Warehouse
